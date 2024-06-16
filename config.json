@@ -1,4 +1,4 @@
-{   
+{
     "bot1": {
         "source": "https://github.com/crazyDeveloperz/Master-Bot-for-Official",
         "branch": "req",
@@ -7,3 +7,4 @@
         },
         "run": "bot.py"
     }
+}
